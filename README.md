@@ -5,17 +5,17 @@
 
 - 🔭 I’m currently working on [Profice](https://github.com/ShubhChaturvedi/profice)
 
-- 🌱 I’m currently learning *redux , Node/ExpressJs*
+- 🌱 I’m currently learning **redux , Node/ExpressJs**
 
-- 💬 Ask me about *reactJs, Node/ExpressJs , flask*
+- 💬 Ask me about **reactJs, Node/ExpressJs , flask**
 
-- 📫 How to reach me *sharmarytham2@gmail.com*
+- 📫 How to reach me **sharmarytham2@gmail.com**
 
-- ⚡ Fun fact *I am a Multi-Tasker and open to contracts*
+- ⚡ Fun fact **I am a Multi-Tasker and open to contracts**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rytham-sharma-08467b278/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rytham-sharma-08467b278/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rytham sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rytham sharma" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
