@@ -3,9 +3,9 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif">
 - 🔭 I’m currently working on [Profice](https://github.com/ShubhChaturvedi/profice)
 
-- 🌱 I’m currently learning **redux , Node/ExpressJs**
+- 🌱 I’m currently learning **Redux , Node/ExpressJs**
 
-- 💬 Ask me about **reactJs, Node/ExpressJs , flask**
+- 💬 Ask me about **ReactJs, Node/ExpressJs , Flask**
 
 - 📫 How to reach me **sharmarytham2@gmail.com**
 
