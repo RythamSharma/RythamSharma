@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rytham Sharma</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif">
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rythamsharma" alt="rythamsharma" /></a> </p>
-
 - 🔭 I’m currently working on [Profice](https://github.com/ShubhChaturvedi/profice)
 
 - 🌱 I’m currently learning **redux , Node/ExpressJs**
