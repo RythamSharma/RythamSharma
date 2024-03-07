@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [VideoTube](https://github.com/RythamSharma/Videotube)
 
-- 🌱 I’m currently learning **Redux , Node/ExpressJs**
+- 🌱 I’m currently learning **Kubernetes , NextJS**
 
 - 💬 Ask me about **ReactJs, Node/ExpressJs , Flask**
 
